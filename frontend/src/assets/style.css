@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+/* :root {
+    --bg-login-btn-h: #1D4ED8;
+    --bg-login-btn: #2563EB;
+} */
+body{
+    font-family: "Inter", "Roboto", Arial, Helvetica, sans-serif;
+    font-size: 16px; 
+    background-color: #E1E1E1;
+    overflow-x: hidden;
+    position: relative;
+}
